@@ -2,8 +2,8 @@
 name = "IT8951"
 description = "Python driver for the IT8951 e-ink display controller."
 authors = [
-    {name = "Greg Kahanamoku-Meyer"},
-    {email = "gregory.meyer@gmail.com"}
+    {name = "Luca Ingold"},
+    {email = "luca.ingold@gmail.com"}
 ]
 requires-python = ">=3.8"
 readme = "README.md"
